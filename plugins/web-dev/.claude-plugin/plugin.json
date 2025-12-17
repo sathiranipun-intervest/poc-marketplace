@@ -1,0 +1,9 @@
+{
+  "name": "web-dev",
+  "description": "Commands, Agents, Hooks and Tools for building websites",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sathira Nipun",
+    "email": "sathira.n@intervest.lk"
+  }
+}

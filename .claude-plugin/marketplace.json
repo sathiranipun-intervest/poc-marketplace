@@ -1,0 +1,23 @@
+{
+    "name": "poc-marketplace",
+    "description": "A demo marketplace plugins by Sathira.",
+    "owner": {
+        "name": "Sathira Nipun",
+        "email": "sathira.n@intervest.lk",
+        "url": "https://github.com/sathiranipun-intervest/poc-marketplace.git"
+    },
+    "metadata":{
+        "version": "1.0.0",
+        "description": "This is a demo marketplace plugin created by Sathira Nipun for demonstration purposes."
+    },
+    "plugins":[
+        {
+            "name": "web-dev",
+            "source" : "./plugins/web-dev",
+            "description": "Commands, Agents, Hooks and Tools for building websites",
+            "version": "1.0.0",
+            "category": "Web Development",
+            "keywords": ["web", "development"]
+        }
+    ]
+}

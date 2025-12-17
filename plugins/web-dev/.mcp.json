@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shadecn": {
+      "command": "npx",
+      "args": ["shadecn@latest", "mcp"]
+    }
+  }
+}
